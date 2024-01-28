@@ -9,7 +9,7 @@ Graduated with a bachelor’s degree in Biomedical engineering about a year ago 
 * 🌍  I'm based in Kampala
 * 🖥️  See my portfolio at [portfolio-fenibrian.com](http://portfolio-fenibrian.vercel.app/)
 * ✉️  You can contact me at [dev@fenibrian.com](mailto:dev@fenibrian.com)
-* 🚀  I'm currently working on [Yellowbooks](http://github.com/feni-brian/Yellowbacks.git)
+* 🚀  I'm currently working on [Privacy Guides](https://www.privacyguides.org/en/)
 * 🧠  I'm learning Swiftdata, Supabase DB, Drizzle
 * 🤝  I'm open to collaborating on any iOS project...
 * ⚡  Arsenal FC forever ♥️, go gunners 🧨💣🛹...
@@ -29,7 +29,5 @@ Graduated with a bachelor’s degree in Biomedical engineering about a year ago 
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/feni-brian"><img src="https://github-readme-stats.vercel.app/api?username=feni-brian&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="feni-brian's GitHub stats" /></a>
 
 <a href="https://github.com/feni-brian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feni-brian&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
